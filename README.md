@@ -91,3 +91,4 @@ If you are a beginner with complex functions you might also find useful: ["Plott
 
 I would also like to recommend an online interactive book by Juan Carlos Ponce Campuzano called ["COMPLEX ANALYSIS - A Visual and Interactive Introduction"](https://complex-analysis.com/).
 
+oi vin tugas ini belum selesai cuy aku blalal
